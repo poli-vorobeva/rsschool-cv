@@ -22,14 +22,16 @@ body {
   background-color: #eae8e4;
 }
 header{
-  position: absolute;
-  right: 0;
-  left: 0;
-  top: 0;
-  height: 20px;
-  background-color: transparent;
-  text-align: end;
-  
+ position: absolute;
+ right: 0;
+ left: 0;
+ top: 0;
+ height: 20px;
+ background-color: transparent;
+ text-align: end;
+ color: gray;
+ opacity: .5;
+ padding: 20px;
 }
 /*Side Bar Panel*/
 .side {
