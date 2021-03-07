@@ -21,7 +21,7 @@ body {
   margin-right: auto;
   background-color: #eae8e4;
 }
-header{
+.header{
  position: absolute;
  right: 0;
  left: 0;
